@@ -4,7 +4,7 @@ Este es un proyecto interactivo desarrollado con **React** y empaquetado utiliza
 
 ---
 
-### 🛠️ Lo que ya está subido:
+### CONFIGURACION
 * **Configuración del Entorno:** Configuración completa de Vite (`vite.config.js`), dependencias del proyecto (`package.json`), y reglas de linter (`eslint.config.js`).
 * **Estilos Estructurados:** Archivos CSS globales (`App.css` e `index.css`) listos para personalizar la interfaz.
 * **Componentes Base (Estructura):** Se crearon los archivos `.jsx` en la carpeta `src/componentes/` que dividirán la aplicación:
